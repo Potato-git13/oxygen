@@ -1,0 +1,4 @@
+bin/
+build/
+oxygen.spec
+__pycache__/
